@@ -37,7 +37,7 @@ class Main {
 						// loop for characters
 						for (int x = 0; x < num; x++) {
 
-							if (x == vplace || x == (num - 1 -vplace)) {								
+							if (x == vplace || x == (num - 1 - vplace)) {								
 
 								line.append("v");
 							} else {
